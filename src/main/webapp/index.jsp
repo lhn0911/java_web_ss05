@@ -15,6 +15,6 @@
 <a href="tasks">Bai8</a><br>
 <a href="BlogServlet">Bai9</a><br>
 <a href="ContactServlet">Bai10</a><br>
-<%response.sendRedirect("CategoriesController?action=findAll");%>
+<%--<%response.sendRedirect("CategoriesController?action=findAll");%>--%>
 </body>
 </html>
